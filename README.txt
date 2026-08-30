@@ -14,7 +14,7 @@ and create it from scratch for the first time is something really invigorating. 
 
 - (No certificaton required). Staying within G-class motor limits (under FAA/NFPA Class 1 rules) keeps the project accessible to a complete beginner - no NAR/Tripoli certification process needed before flying.
 - Generic, well-documented clone components (Arduino Nano clone, common breakout sensors) are chosen over name-brand commercial flight computers, keeping cost low without sacrificing capablility.
-- The laucnh controller and the onboard electronics sled are both built to be pulled out and reused on future rockets - only the motor, igniter, and airframe are single-use per flight.
+- The launch controller and the onboard electronics sled are both built to be pulled out and reused on future rockets - only the motor, igniter, and airframe are single-use per flight.
 - Every structural and electronics decision flows from an OpenRocket model built first, rather then guessing dimensions and hoping the numbers work out.
 
 ---
