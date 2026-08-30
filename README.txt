@@ -7,7 +7,7 @@ A beginner-built, no-certification-required model project combining a from-scrat
 
 ## Inspiration
 
-This started as a project that just sounded fun to build. I (Snifffyy) am studying aerospace engineering, and my brother (CJLV1) is a strong software developer — this rocket became a natural way to combine both skill sets on something real: I take the lead on the aerodynamics, structure, and flight mechanics side, while he brings the software depth needed for the flight computer firmware and ground station. It's our first model rocket build together, end to end. 
+This started as a project that just sounded fun to build. I (Snifffyy) am studying aerospace engineering, and my brother (CJLV1) is a strong software developer — this rocket became a natural way to combine both skill sets on something real: I take the lead on the aerodynamics, structure, and flight mechanics side, while he leads the software depth needed for the flight computer firmware and ground station. It's our first model rocket build together, end to end. 
 
 ## Desgin Philosophy
 
