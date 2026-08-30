@@ -49,5 +49,5 @@ TBD
 
 ## Project Status
 
-Currently on **Step 1** of the build plan: modeling the airframe in OpenRocket and converging on a stable design before any parts are ordered. 
-See the full 8-step build plan for what comes next (ordering, bench-testing each subsystem individually, integration, and finally launch day).
+Currently on **Step 1** of the build plan: modeling the airframe in OpenRocket, converging on a stable design before any parts are ordered, and planning on ideas for the firmware. 
+See the full 8-step build plan in docs -> "Rocket Project Plan.pdf" (ordering parts, bench-testing each subsystem individually, build - integrate, and finally launch day).
