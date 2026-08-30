@@ -4,14 +4,14 @@ Quick summary of the three core reference documents for this project.
 
 ---
 
-## `3500ft_rocket_project_plan.md`
+## `3500ft_rocket_project_plan.pdf`
 
 The master plan for the whole build. Covers the project goal (reach roughly 3,500 ft on a G-class motor with no NAR/Tripoli certification required), 
 the ground rules (motor class limits, 915 MHz LoRa radio, frugal DIY parts, reusable electronics), and the full 8-step build sequence — from modeling the rocket in OpenRocket, through ordering parts, 
 bench-testing the flight computer/radio/launch controller individually, a full integrated dry run, physical assembly and recovery ground-testing, and finally launch day procedure and post-flight review. 
 Also includes an estimated budget breakdown for the first build and for future reflights.
 
-## `Rocket_Electronics_and_Motor_Sourcing.docx`
+## `Rocket_Electronics_and_Motor_Sourcing.pdf`
 
 A shopping reference for the electronics and motor. Lists every flight computer part (microcontroller, barometer, IMU, GPS, SD module, LoRa radios, battery/regulator) with notes and estimated cost per part. 
 Flags an important GPS buying warning about COCOM altitude/velocity limits that can cause cheap GPS modules to stop reporting mid-flight. Also covers where to buy a G-class motor (Apogee Rockets, Wildman Rocketry, 
