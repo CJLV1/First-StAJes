@@ -22,3 +22,9 @@ local hobby shops), with specific 29mm AeroTech/Cesaroni motor candidates to loo
 A dedicated guide to choosing the right material for every physical part of the rocket. An overview table covers the recommended material, the reasoning, and a realistic alternative for each component 
 (nose cone, body tube, fins, centering rings, recovery gear, electronics sled, and more). Followed by longer detail sections explaining the trade-offs in plain terms for airframe materials, 
 recovery system materials, and electronics/hardware.
+
+## `Electronics_Viability_Research.pdf`
+
+A pre-purchase due-diligence check on every part on the electronics list, based on real datasheet specs rather than general reputation. Goes component by component (Arduino Nano clone, BMP388, MPU6050, NEO-6M GPS, microSD module, RFM95W LoRa radios, LiPo + regulator) 
+with a clear viability verdict for each, plus the specific risks and mitigations that matter for this build. Flags two real gotchas worth knowing before ordering: the MPU6050's accelerometer needs to be reconfigured to its ±16g setting in firmware 
+(and may still clip at peak boost), and the NEO-6M GPS has a 4g acceleration operating limit that can cause a brief loss of fix during motor burn (recovering well before landing, when it actually matters).
