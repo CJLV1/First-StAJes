@@ -156,7 +156,7 @@ Not yet modeled as a separate component, but planned: a Nomex or fireproof cloth
 - **Target stability margin:** 1–2 calibers (body-tube diameters) of separation between the center of gravity (CG) and center of pressure (CP), with CG ahead of CP.
 - **Reference simulation snapshot (no motor installed):** length approximately 37 inches (94 centimeters), maximum diameter 2.6 inches (6.6 centimeters), dry mass approximately 350 grams (12.3 ounces), CG at approximately 18.5 inches (47 centimeters), CP at approximately 27.8 inches (70.6 centimeters) — a comfortable margin at this stage, before a motor's mass at the tail shifts the numbers.
 - **Iteration order when off-target:** (1) try a higher-impulse motor first — cheapest change to test, (2) trim airframe length/diameter if electronics allow, (3) lighten fin material, (4) only enlarge fins for stability as a last resort, since bigger fins add drag and cost altitude.
-
+- *** Finalized selection with the Aerotek G74-6W motor. This seems like the most viable option when considering budget and capacity.
 ---
 
 ## 6. Design Iteration Notes (lessons learned so far)
